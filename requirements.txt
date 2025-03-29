@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+transformers
+datasets
+accelerate
+evaluate
+torch
+google_play_scraper
+scikit-learn
+xgboost
+optuna
+tqdm
+joblib
