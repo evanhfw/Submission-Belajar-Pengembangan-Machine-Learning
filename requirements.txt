@@ -12,3 +12,4 @@ xgboost
 optuna
 tqdm
 joblib
+wordcloud
